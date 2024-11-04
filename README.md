@@ -10,4 +10,4 @@ This project is based on [react-native-map-clustering](https://github.com/venits
 
 ## License
 
-无
+This library is licensed under [The MIT License (MIT)](https://github.com/react-native-oh-library/react-native-map-clustering/blob/sig/LICENSE)
