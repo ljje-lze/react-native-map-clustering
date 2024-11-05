@@ -1,6 +1,10 @@
 {
-  "name": "react-native-map-clustering",
-  "version": "3.4.2",
+  "name": "@react-native-oh-tpl/react-native-map-clustering",
+  "harmony": {
+    "alias": "react-native-map-clustering",
+    "redirectInternalImports": true
+  },
+  "version": "3.4.2-0.0.1",
   "description": "React Native Map Clustering both for Android and iOS",
   "types": "index.d.ts",
   "main": "index.js",
@@ -32,6 +36,7 @@
   },
   "peerDependencies": {
     "react-native-maps": "*",
+    "react-native-map-clustering": "3.4.0",
     "react-native": "*"
   }
 }
